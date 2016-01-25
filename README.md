@@ -30,4 +30,8 @@ python visualize.py
 
 The figures (already included) that this will generate compare the different categories of food and their pricyness.
 
+![alt text](visualizeyelp/foodtypes.png "What types of food are abundant at Charlottesville?")
+
+![alt text](visualizeyelp/pricyness.png "How expensive are the restaurants?")
+
 DISCLAIMER: The spider works as of this commit but may stop functioning if Yelp's website layout changes drastically
