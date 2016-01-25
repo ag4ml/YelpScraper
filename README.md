@@ -16,17 +16,17 @@ pip install -r requirements.txt
 
 To run the spider and generate the data as a json file:
 
-'''
+```
 scrapy crawl yelp -o filenamehere.json
-'''
+```
 
 The previous run of this spider generated a restaurants.json file (already included).
 
 Lastly, to visualize the data and view the figures that it produces, cd into the visualizeyelp directory and run:
 
-'''
+```
 python visualize.py
-'''
+```
 
 The figures (already included) that this will generate compare the different categories of food and their pricyness.
 
